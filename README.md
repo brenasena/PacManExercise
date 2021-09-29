@@ -1,7 +1,7 @@
 # PacManExercise
-Project Description: This project creates a Pac Man that moves across the computer screen. It utilizes boundary criteria to determine when the Pac Man should turn around once it hits the side of the screen. It also considers a particular speed of movement across the screen.
+Project Description: This project creates a Pac Man that moves across the computer screen. Click on the Pac Man on screen to see it move. It utilizes boundary criteria to determine when the Pac Man should turn around once it hits the side of the screen. It also considers a particular speed of movement across the screen.
 
-How to run: You can run this animation by downloading the html file provided, as well as the Pac Man images, save it all to one folder in your system and drag and drop the html file into a browser window. You can also branch the code provided here to one of your on-going projects.
+How to run: You can run the animation by clicking on the PacMan on the screen. You can also download the html file provided, as well as the Pac Man images, save it all to one folder in your system and drag and drop the html file into a browser window. Finally, you can branch the code provided here to one of your on-going projects.
 
 Roadmap of future improvements:
 For future improvements I plan to add a button which adds additional Pac-Mans which move simultaneously across the screen. I will also play around with the speed and timing of each Pac Man so that some move faster and some move slower. 
